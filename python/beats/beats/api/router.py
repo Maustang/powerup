@@ -1,0 +1,1 @@
+class BeatsRouter(object):
