@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+python/beats
+.project
+.pydevproject
+
